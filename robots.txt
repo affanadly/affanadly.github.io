@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://affanadly.github.io/al-folio/sitemap.xml
+Sitemap: https://affanadly.github.io/sitemap.xml
