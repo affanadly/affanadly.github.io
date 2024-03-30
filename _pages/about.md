@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://sites.google.com/view/radiocosmologylaboratory/home'>Radio Cosmology Research Laboratory, Universiti Malaya, Malaysia</a>
 
