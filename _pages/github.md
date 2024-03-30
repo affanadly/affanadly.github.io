@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gitHub
+title: github
 permalink: /github/
 description: My GitHub statistics and repositories.
 nav: true
