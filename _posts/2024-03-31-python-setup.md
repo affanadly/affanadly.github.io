@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up Python and VS Code
-date: 2024-03-31 12:00:00
+date: 2024-03-31 12:00:00 +0800
 tags: python vscode setup
 categories: guide
 ---
@@ -32,7 +32,7 @@ This is how I setup my Python environment alongside Visual Studio Code (VS Code)
 
 ## Visual Studio Code Installation
 
-1. For Windows, download the latest VS Code installer from the [official website](https://code.visualstudio.com/download). For Linux, you can install it using the following commands:
+1. For Windows, download the latest VS Code installer from the [official website](https://code.visualstudio.com/download). For Linux, VS Code can be installed using the following commands:
 
     ```bash
     sudo apt-get install wget gpg

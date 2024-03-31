@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up a Ubuntu 22.04 LTS VM in Oracle Virtualbox
-date: 2024-03-30 12:00:00
+date: 2024-03-30 12:00:00 +0800
 tags: vm linux setup
 categories: guide
 ---
