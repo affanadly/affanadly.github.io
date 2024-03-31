@@ -1,18 +1,15 @@
 {
   "basics": {
     "name": "Affan Adly Nazri",
-    "label": "Astrophysicist",
-    "image": "",
+    "label": "Ph.D. Student (Astrophysicist)",
     "email": "affanadly.astro@gmail.com",
-    "phone": "(+60) 12 527 230",
     "url": "https://affanadly.github.io",
     "summary": "A passionate astrophysicist with strong programming and data analysis skills. Currently a Ph.D. student working on high-mass star formation.",
     "location": {
       "address": "Radio Cosmology Research Laboratory, Universiti Malaya",
       "postalCode": "50603",
       "city": "Kuala Lumpur",
-      "countryCode": "MY",
-      "region": ""
+      "countryCode": "MY"
     },
     "profiles": [
       {
@@ -32,102 +29,58 @@
       }
     ]
   },
+  "work": [
+    {
+      "name": "Radio Cosmology Research Laboratory, Universiti Malaya",
+      "position": "Research Assistant Intern",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "Involved in tasks of research assistant in a research institution, specifically in radio astronomy research. Performed tasks such as grant management and preparation, student supervision, meeting hosting and moderating, document preparation, MOU preparation, website maintenance, and organizing events"
+    }
+  ],
   "education": [
     {
       "institution": "SMK Batu Lapan Jalan Puchong",
+      "url": "https://ms.wikipedia.org/wiki/Kolej_Tingkatan_Enam_Puchong",
       "area": "Pure Sciences",
       "studyType": "Secondary School (SPM)",
-      "startDate": "2012-01-01",
-      "endDate": "2016-12-31",
-      "score": "Grades: 7A+ 1A 1A-"
+      "startDate": "2012",
+      "endDate": "2016",
+      "courses": ["Grades: 7A+ 1A 1A-"]
     },
     {
       "institution": "Center for Foundation Studies in Science Universiti Malaya (PASUM)",
       "url": "https://asasi.um.edu.my/",
       "area": "Physical Sciences",
       "studyType": "Foundations",
-      "startDate": "2017-01-01",
-      "endDate": "2018-01-01",
-      "score": "Overall GPA: 4.0"
+      "startDate": "2017",
+      "endDate": "2018",
+      "courses": ["Overall GPA: 4.0", "Malaysian University English Test (MUET): Band 5"]
     },
     {
       "institution": "Universiti Malaya",
       "url": "https://www.um.edu.my/",
       "area": "Physics",
       "studyType": "Bachelor of Science",
-      "startDate": "2018-01-01",
-      "endDate": "2022-01-01",
-      "score": "Overall CGPA: 3.95 (Passed with Honours, with Distinction)"
+      "startDate": "2018",
+      "endDate": "2022",
+      "courses": ["Overall CGPA: 3.95 (Passed with Honours, with Distinction)"]
     },
     {
-      "institution": "Universiti Malaya",
+      "institution": "Universiti Malaya (Radio Cosmology Research Laboratory)",
       "url": "https://www.um.edu.my/",
       "area": "Physics",
       "studyType": "Doctor of Philosophy in Physical Science",
-      "startDate": "2022-01-01",
-      "course": ["Radio Cosmology Research Laboratory Universiti Malaya"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "startDate": "2022"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Limits of water maser kinematics: insights from the high-mass protostar AFGL 5142-MM1",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2023-12-29",
+      "url": "https://academic.oup.com/mnras/article/527/4/10031/7503518",
+      "summary": "Multi-epoch VLBI observations measures 3D velocities of masers in MYSO outflows, assuming that they co-propagate with the shock. Our water maser data for a bowshock outflow in AFGL5142 depicts that they actually propagate slower than the bowshock. This underlines the importance of long-term monitoring of maser kinematics to understand the true nature of the outflowss."
     }
   ],
   "skills": [
@@ -145,34 +98,54 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "Bahasa Melayu",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "Korean",
-      "fluency": "Beginner",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Star Formation",
+      "icon": "fa-solid fa-sun",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "High-mass Star Formation",
+        "Young Stellar Objects",
+        "Masers",
+        "VLBI",
+        "Molecular Clouds"
+      ]
+    },
+    {
+      "name": "High Redshift Radio Galaxies",
+      "icon": "fa-solid fa-galaxy",
+      "keywords": [
+        "Galaxy Environment",
+        "Protoclusters",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "name": "Galaxy Clusters",
+      "icon": "fa-solid fa-circle-nods",
+      "keywords": [
+        "Galaxy Detection",
+        "Cosmic Filaments",
+        "Cluster Matching"
+      ]
+    },
+    {
+      "name": "Fast Radio Bursts",
+      "icon": "fa-solid fa-satellite-dish",
+      "keywords": [
+        "FRB Detection",
+        "FRB Classification",
+        "Noise Analysis"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "Data Analysis",
+        "Parametric Fitting",
+        "Data Visualization",
+        "Machine Learning",
+        "Web Scraping"
       ]
     }
   ],

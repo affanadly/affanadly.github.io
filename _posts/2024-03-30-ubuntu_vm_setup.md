@@ -6,7 +6,7 @@ tags: vm linux setup
 categories: guide
 ---
 
-This is how I setup my Ubuntu 22.04 LTS VM every time I need to work on a fresh installation. 
+This is how I setup my Ubuntu 22.04 LTS VM every time I need to work on a fresh installation.
 
 ## Pre-Installation
 

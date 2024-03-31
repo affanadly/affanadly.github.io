@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://sites.google.com/view/radiocosmologylaboratory/home'>Radio Cosmology Research Laboratory, Universiti Malaya, Malaysia</a>
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
 
