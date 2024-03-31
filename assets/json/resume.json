@@ -80,7 +80,7 @@
       "publisher": "Monthly Notices of the Royal Astronomical Society",
       "releaseDate": "2023-12-29",
       "url": "https://academic.oup.com/mnras/article/527/4/10031/7503518",
-      "summary": "Multi-epoch VLBI observations measures 3D velocities of masers in MYSO outflows, assuming that they co-propagate with the shock. Our water maser data for a bowshock outflow in AFGL5142 depicts that they actually propagate slower than the bowshock. This underlines the importance of long-term monitoring of maser kinematics to understand the true nature of the outflowss."
+      "summary": "Multi-epoch VLBI observations measures 3D velocities of masers in MYSO outflows, assuming that they co-propagate with the shock. Our water maser data for a bowshock outflow in AFGL5142 depicts that they actually propagate slower than the bowshock. This underlines the importance of long-term monitoring of maser kinematics to understand the true nature of the outflows."
     }
   ],
   "skills": [
@@ -101,7 +101,7 @@
   "interests": [
     {
       "name": "Star Formation",
-      "icon": "fa-solid fa-sun",
+      "icon": "fa-sun",
       "keywords": [
         "High-mass Star Formation",
         "Young Stellar Objects",
@@ -112,7 +112,7 @@
     },
     {
       "name": "High Redshift Radio Galaxies",
-      "icon": "fa-solid fa-galaxy",
+      "icon": "fa-galaxy",
       "keywords": [
         "Galaxy Environment",
         "Protoclusters",
@@ -121,7 +121,7 @@
     },
     {
       "name": "Galaxy Clusters",
-      "icon": "fa-solid fa-circle-nods",
+      "icon": "fa-circle-nods",
       "keywords": [
         "Galaxy Detection",
         "Cosmic Filaments",
@@ -130,7 +130,7 @@
     },
     {
       "name": "Fast Radio Bursts",
-      "icon": "fa-solid fa-satellite-dish",
+      "icon": "fa-satellite-dish",
       "keywords": [
         "FRB Detection",
         "FRB Classification",
@@ -139,7 +139,7 @@
     },
     {
       "name": "Data Science",
-      "icon": "fa-solid fa-database",
+      "icon": "fa-database",
       "keywords": [
         "Data Analysis",
         "Parametric Fitting",
