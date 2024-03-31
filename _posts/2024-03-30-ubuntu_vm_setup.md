@@ -27,9 +27,11 @@ This is how I setup my Ubuntu 22.04 LTS VM every time I need to work on a fresh 
 2. Disable sending system information to Canonical.
 3. Remove Ubuntu softwares and Help from the favourites bar, and move the home folder shortcut to the top-right.
 4. Go to the settings and enable the following:
-    - Power: Set blank screen to never
-    - Appearance: Dark mode
-    - Language & Region: Set the language format to UK (requires reboot and login)
+
+- Power: Set blank screen to never
+- Appearance: Dark mode
+- Language & Region: Set the language format to UK (requires reboot and login)
+
 5. Install the following packages:
 
     ```bash

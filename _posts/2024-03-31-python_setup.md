@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Setting up Python (and VS Code)
+title: Setting up Python and VS Code
 date: 2024-03-31 12:00:00
-tags: python setup
+tags: python vscode setup
 categories: guide
 ---
 
