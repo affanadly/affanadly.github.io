@@ -8,7 +8,7 @@
  <span class="nb">sudo install</span> <span class="nt">-D</span> <span class="nt">-o</span> root <span class="nt">-g</span> root <span class="nt">-m</span> 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
  <span class="nb">sudo </span>sh <span class="nt">-c</span> <span class="s1">'echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" &gt; /etc/apt/sources.list.d/vscode.list'</span>
  <span class="nb">rm</span> <span class="nt">-f</span> packages.microsoft.gpg
-
+    
  <span class="nb">sudo </span>apt <span class="nb">install </span>apt-transport-https
  <span class="nb">sudo </span>apt update
  <span class="nb">sudo </span>apt <span class="nb">install </span>code
