@@ -106,13 +106,13 @@
     },
     {
       "name": "High Redshift Radio Galaxies",
-      "icon": "fa-solid fa-galaxy",
+      "icon": "fa-galaxy",
       "keywords": ["Galaxy Environment", "Protoclusters", "Statistical Analysis"]
     },
     {
       "name": "Galaxy Clusters",
-      "icon": "fa-solid fa-circle-nodes",
-      "keywords": ["Galaxy Detection", "Cross Matching", "Cosmic Filaments", "Cluster Matching"]
+      "icon": "fa-circle-nods",
+      "keywords": ["Galaxy Detection", "Cosmic Filaments", "Cluster Matching"]
     },
     {
       "name": "Fast Radio Bursts",
@@ -121,8 +121,8 @@
     },
     {
       "name": "Data Science",
-      "icon": "fa-solid fa-database",
-      "keywords": ["Parametric Fitting", "Data Visualization", "Machine Learning", "Web Scraping"]
+      "icon": "fa-database",
+      "keywords": ["Data Analysis", "Parametric Fitting", "Data Visualization", "Machine Learning", "Web Scraping"]
     }
   ],
   "projects": [
