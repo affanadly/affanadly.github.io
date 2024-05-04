@@ -101,28 +101,28 @@
   "interests": [
     {
       "name": "Star Formation",
-      "icon": "fa-sun-o",
+      "icon": "fa-regular fa-sun",
       "keywords": ["High-mass Star Formation", "Young Stellar Objects", "Masers", "VLBI", "Molecular Clouds"]
     },
     {
       "name": "High Redshift Radio Galaxies",
-      "icon": "fa-galaxy",
+      "icon": "fa-solid fa-galaxy",
       "keywords": ["Galaxy Environment", "Protoclusters", "Statistical Analysis"]
     },
     {
       "name": "Galaxy Clusters",
-      "icon": "fa-circle-nods",
-      "keywords": ["Galaxy Detection", "Cosmic Filaments", "Cluster Matching"]
+      "icon": "fa-solid fa-circle-nodes",
+      "keywords": ["Galaxy Detection", "Cross Matching", "Cosmic Filaments", "Cluster Matching"]
     },
     {
       "name": "Fast Radio Bursts",
-      "icon": "fa-satellite-dish",
+      "icon": "fa-solid fa-satellite-dish",
       "keywords": ["FRB Detection", "FRB Classification", "Noise Analysis"]
     },
     {
       "name": "Data Science",
-      "icon": "fa-database",
-      "keywords": ["Data Analysis", "Parametric Fitting", "Data Visualization", "Machine Learning", "Web Scraping"]
+      "icon": "fa-solid fa-database",
+      "keywords": ["Parametric Fitting", "Data Visualization", "Machine Learning", "Web Scraping"]
     }
   ],
   "projects": [
