@@ -26,7 +26,9 @@
 
 .fas,
 .#{$fa-css-prefix}-classic,
-.#{$fa-css-prefix}-solid,
+.#{$fa-css-prefix}-solid {
+  font-family: "Font Awesome 6 Pro Solid";
+}
 .far,
 .#{$fa-css-prefix}-regular {
   font-family: "Font Awesome 6 Pro Regular";
