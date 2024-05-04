@@ -101,7 +101,7 @@
   "interests": [
     {
       "name": "Star Formation",
-      "icon": "fa-solid fa-sun",
+      "icon": "fa-regular fa-sun",
       "keywords": ["High-mass Star Formation", "Young Stellar Objects", "Masers", "VLBI", "Molecular Clouds"]
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "name": "Fast Radio Bursts",
-      "icon": "fa-solid fa-signal-stream",
+      "icon": "fa-solid fa-satellite-dish",
       "keywords": ["FRB Detection", "FRB Classification", "Noise Analysis"]
     },
     {
