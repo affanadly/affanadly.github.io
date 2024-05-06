@@ -85,54 +85,112 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Astrophysics Softwares",
+      "icon": "fa-solid fa-computer",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "AIPS",
+        "Starlink",
+        "Miriad",
+        "Glafic",
+        "BEAR"
+      ]
+    },
+    {
+      "name": "Programming, Scripting, and Typesetting Languages",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
+        "Bash",
+        "LaTeX",
+        "Markdown"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Numpy",
+        "Pandas",
+        "Scipy",
+        "Astropy",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "Jupyter"
       ]
     }
   ],
   "interests": [
     {
       "name": "Star Formation",
-      "icon": "fa-solid fa-sun",
+      "icon": "fa-regular fa-star",
       "keywords": ["High-mass Star Formation", "Young Stellar Objects", "Masers", "VLBI", "Molecular Clouds"]
     },
     {
       "name": "High Redshift Radio Galaxies",
-      "icon": "fa-solid fa-galaxy",
+      "icon": "fa-regular fa-galaxy",
       "keywords": ["Galaxy Environment", "Protoclusters", "Statistical Analysis"]
     },
     {
       "name": "Galaxy Clusters",
-      "icon": "fa-solid fa-circle-nodes",
+      "icon": "fa-regular fa-circle-nodes",
       "keywords": ["Galaxy Detection", "Cross Matching", "Cosmic Filaments", "Cluster Matching"]
     },
     {
       "name": "Fast Radio Bursts",
-      "icon": "fa-solid fa-satellite-dish",
+      "icon": "fa-regular fa-signal-stream",
       "keywords": ["FRB Detection", "FRB Classification", "Noise Analysis"]
     },
     {
       "name": "Data Science",
-      "icon": "fa-solid fa-database",
+      "icon": "fa-regular fa-database",
       "keywords": ["Parametric Fitting", "Data Visualization", "Machine Learning", "Web Scraping"]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Water Maser Kinematics in RCW142",
+      "startDate": "2022-10"
+    },
+    {
+      "name": "RFI Mitigation using Spectral Kurtosis",
+      "startDate": "2023-11"
+    },
+    {
+      "name": "Formaldehyde Absorption Lines and RRLs in Molecular Clouds",
+      "startDate": "2023-11"
+    },
+    {
+      "name": "RAdio Galaxy Environment Reference Survey (RAGERS)",
+      "startDate": "2022-04"
+    },
+    {
+      "name": "RACS-MCXC AGN Suprression in Cluster Environments",
+      "startDate": "2023-03"
+    },
+    {
+      "name": "Limits of Maser Kinematics of Protostellar Bowshocks in AFGL5142-MM1",
+      "startDate": "2021-07",
+      "endDate": "2023-12"
+    },
+    {
+      "name": "Galaxy Cluster Observations using ATCA for Cosmic Filaments",
+      "startDate": "2021-07"
+    },
+    {
+      "name": "Phantom FRBs and Coloured Noise",
+      "summary": "Phantom FRBs are FRBs which cannot be attributed to any astrophysical origin. I researched on correlation between phantom FRBs from the Five-hundred-meter Aperture Spherical radio Telescope (FAST) and coloured noise.",
+      "startDate": "2021-06",
+      "endDate": "2022-06"
+    },
+    {
+      "name": "Detection of Fast Radio Bursts",
+      "summary": "Fast Radio Bursts (FRBs) are brief, bright flashes of radio waves that last only a few milliseconds of extragalactic origin. I researched on developing and improving FRB detection codes, and wrote a standablone Python FRB detection program named the Python Language Radio Burst Emission Automatic Roger (PoLaR BEAR) based on a precursor program written in C++.",
+      "startDate": "2020-08",
+      "endDate": "2021-06",
+      "url": "https://github.com/affanadly/PoLaR-BEAR"
     }
   ]
 }
