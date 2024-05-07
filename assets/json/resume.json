@@ -151,10 +151,6 @@
   ],
   "projects": [
     {
-      "name": "Water Maser Kinematics in RCW142",
-      "startDate": "2022-10"
-    },
-    {
       "name": "RFI Mitigation using Spectral Kurtosis",
       "startDate": "2023-11"
     },
@@ -163,12 +159,16 @@
       "startDate": "2023-11"
     },
     {
-      "name": "RAdio Galaxy Environment Reference Survey (RAGERS)",
-      "startDate": "2022-04"
-    },
-    {
       "name": "RACS-MCXC AGN Suprression in Cluster Environments",
       "startDate": "2023-03"
+    },
+    {
+      "name": "Water Maser Kinematics in RCW142",
+      "startDate": "2022-10"
+    },
+    {
+      "name": "RAdio Galaxy Environment Reference Survey (RAGERS)",
+      "startDate": "2022-04"
     },
     {
       "name": "Limits of Maser Kinematics of Protostellar Bowshocks in AFGL5142-MM1",
@@ -181,16 +181,13 @@
     },
     {
       "name": "Phantom FRBs and Coloured Noise",
-      "summary": "Phantom FRBs are FRBs which cannot be attributed to any astrophysical origin. I researched on correlation between phantom FRBs from the Five-hundred-meter Aperture Spherical radio Telescope (FAST) and coloured noise.",
       "startDate": "2021-06",
       "endDate": "2022-06"
     },
     {
       "name": "Detection of Fast Radio Bursts",
-      "summary": "Fast Radio Bursts (FRBs) are brief, bright flashes of radio waves that last only a few milliseconds of extragalactic origin. I researched on developing and improving FRB detection codes, and wrote a standablone Python FRB detection program named the Python Language Radio Burst Emission Automatic Roger (PoLaR BEAR) based on a precursor program written in C++.",
       "startDate": "2020-08",
-      "endDate": "2021-06",
-      "url": "https://github.com/affanadly/PoLaR-BEAR"
+      "endDate": "2021-06"
     }
   ]
 }
