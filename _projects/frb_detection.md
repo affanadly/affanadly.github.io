@@ -2,6 +2,7 @@
 layout: page
 title: Detection of Fast Radio Bursts
 description: My B.Sc. Final Year Project
+category: completed
 img: /assets/img/projects/frb_detection.jpg
 ---
 
