@@ -3,6 +3,7 @@ layout: page
 title: Detection of Fast Radio Bursts
 description: My B.Sc. Final Year Project
 img: /assets/img/projects/frb_detection/artists_impression.jpg
+related_publications: true
 ---
 
 <div class="row">
@@ -41,3 +42,4 @@ I researched on developing and improving FRB detection codes, and wrote a standa
 <div class="caption">
     Example output of PoLaR BEAR for FRB121102
 </div>
+
