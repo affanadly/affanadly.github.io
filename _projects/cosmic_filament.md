@@ -15,7 +15,7 @@ related_publications: true
     The Millennium Simulation depicting galaxy clusters connected together by cosmic filaments. Image credit: Max Planck Institute for Astrophysics
 </div>
 
-Cosmic filaments are strands of dark matter and galaxies connecting galaxy clusters in the cosmic web. They are the largest structures in the Universe, and contains most of the mass in the Universe. The first evidence of cosmic filaments was found in 1987 with the discovery of the Pisces-Cetus Supercluster Complex {% cite Tully1986}, and the largest filament found so far is the Hercules-Corona Borealis Great Wall at 3 gpc.
+Cosmic filaments are strands of dark matter and galaxies connecting galaxy clusters in the cosmic web. They are the largest structures in the Universe, and contains most of the mass in the Universe. The first evidence of cosmic filaments was found in 1987 with the discovery of the Pisces-Cetus Supercluster Complex {% cite Tully1986 --file references}, and the largest filament found so far is the Hercules-Corona Borealis Great Wall at 3 gpc.
 
 I researched on galaxy cluster and cosmic filament observations using the Australia Telescope Compact Array (ATCA) to compare their radio characteristics. I developed a pseudo-automated RFI flagging procedure for the visibility data, and a method to improve the accuracy of galaxy detection near the noisy beam edges based on detection weighting and importance sampling.
 
