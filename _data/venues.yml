@@ -1,3 +1,11 @@
 "MNRAS":
   url: https://academic.oup.com/mnras
   color: "#755ba0"
+
+"Sci":
+  url: https://www.science.org/journal/science
+  color: "c72326"
+
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
+  color: "3c5492"
