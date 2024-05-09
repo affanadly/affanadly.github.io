@@ -116,8 +116,6 @@
         "Scipy",
         "Astropy",
         "Matplotlib",
-        "Seaborn",
-        "Plotly",
         "Jupyter"
       ]
     }
@@ -159,7 +157,7 @@
       "startDate": "2023-11"
     },
     {
-      "name": "RACS-MCXC AGN Suprression in Cluster Environments",
+      "name": "RACS-MCXC Radio Galaxies in Cluster Environments",
       "startDate": "2023-03"
     },
     {
@@ -171,7 +169,7 @@
       "startDate": "2022-04"
     },
     {
-      "name": "Limits of Maser Kinematics of Protostellar Bowshocks in AFGL5142-MM1",
+      "name": "Protostellar Bowshocks in AFGL5142-MM1",
       "startDate": "2021-07",
       "endDate": "2023-12"
     },

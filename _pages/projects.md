@@ -5,7 +5,7 @@ title: projects
 description:
 nav: true
 nav_order: 3
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

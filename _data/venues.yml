@@ -2,6 +2,10 @@
   url: https://academic.oup.com/mnras
   color: "#755ba0"
 
+"MNRASL":
+  url: https://academic.oup.com/mnrasl
+  color: "#755ba0"
+
 "Sci":
   url: https://www.science.org/journal/science
   color: "c72326"

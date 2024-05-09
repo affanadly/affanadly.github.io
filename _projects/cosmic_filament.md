@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phantom FRBs and Coloured Noise
+title: Galaxy Cluster Observation using ATCA for Cosmic Filaments
 img: /assets/img/projects/cosmic_filament/millenium.jpg
 importance: 7
 related_publications: true
