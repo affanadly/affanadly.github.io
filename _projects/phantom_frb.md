@@ -3,7 +3,6 @@ layout: page
 title: Phantom FRBs and Coloured Noise
 img: /assets/img/projects/phantom_frb/fast.jpg
 importance: 8
-related_publications: true
 ---
 
 <div class="row">
