@@ -13,3 +13,19 @@
 "ApJ":
   url: https://iopscience.iop.org/journal/0004-637X
   color: "3c5492"
+
+"APJS":
+  url: https://iopscience.iop.org/journal/0067-0049
+  color: "939bb2"
+
+"PASJ"
+  url: https://academic.oup.com/pasj
+  color: "003f79"
+
+"PASA"
+  url: https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia
+  color: "110f0e"
+
+"A&A"
+  url: https://www.aanda.org/
+  color: "da4543"

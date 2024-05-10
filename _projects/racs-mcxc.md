@@ -15,7 +15,8 @@ related_publications: true
     The Australian Square Kilometre Array Pathfinder (ASKAP) in Western Australia. Image credit: Alex Cherney
 </div>
 
-Text goes here.
+RACS-low Catalogue: {% cite Hale2021 --file references %}
+MCXC Catalogue: {% cite Piffaretti2011 --file references %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
