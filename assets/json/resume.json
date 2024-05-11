@@ -175,13 +175,13 @@
     },
     {
       "name": "Protostellar Bowshocks in AFGL5142-MM1",
-      "url": "projects/afgl5142/",
+      "url": "/projects/afgl5142/",
       "startDate": "2021-07",
       "endDate": "2023-12"
     },
     {
       "name": "Radio Observations on Cosmic Filaments",
-      "url": "projects/cosmic_filament/",
+      "url": "/projects/cosmic_filament/",
       "startDate": "2021-08"
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "name": "Detection of Fast Radio Bursts",
-      "url": "/projects/frb_detection",
+      "url": "/projects/frb_detection/",
       "startDate": "2020-08",
       "endDate": "2021-06"
     }
