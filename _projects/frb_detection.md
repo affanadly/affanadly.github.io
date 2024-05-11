@@ -28,9 +28,9 @@ The key characteristic of FRBs is their dispersion measure (DM) i.e. the frequen
     Waterfall plot of the first FRB discovered, FRB 010724.
 </div>
 
-The first FRB was discovered while reviewing data in radio pulsar surveys taken using the Parkes Telescope {% cite Lorimer2007 --file references %}. Since then, hundreds of FRBs have been discovered, especially using instruments with large FOVs such as the Five-hundred-meter Aperture Spherical Telescope (FAST) and the Canadian Hydrogen Intensity Mapping Experiment (CHIME).
+The first FRB was discovered while reviewing data in radio pulsar surveys taken using the Parkes Telescope {% cite Lorimer2007 %}. Since then, hundreds of FRBs have been discovered, especially using instruments with large FOVs such as the Five-hundred-meter Aperture Spherical Telescope (FAST) and the Canadian Hydrogen Intensity Mapping Experiment (CHIME).
 
-Previously, FRB detection are performed using pulsar signal processing programs (e.g. SIGPROC and PRESTO). Currently, there are various FRB detection codes available, mainly optimizing the computationally intensive dedispersion process. One of them is the Burst Emission Automatic Roger (BEAR) program, which is a standalone C++ pipeline for FRB detection developed for various Chinese telescopes {% cite Men2019 --file references %}.
+Previously, FRB detection are performed using pulsar signal processing programs (e.g. SIGPROC and PRESTO). Currently, there are various FRB detection codes available, mainly optimizing the computationally intensive dedispersion process. One of them is the Burst Emission Automatic Roger (BEAR) program, which is a standalone C++ pipeline for FRB detection developed for various Chinese telescopes {% cite Men2019 %}.
 
 I researched on developing and improving FRB detection codes, and wrote a standablone Python FRB detection program named the Python Language Radio Burst Emission Automatic Roger (PoLaR BEAR) based on BEAR. A repository of the script and my thesis is avaiable on [GitHub](https://github.com/affanadly/PoLaR-BEAR).
 

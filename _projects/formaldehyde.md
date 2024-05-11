@@ -19,7 +19,7 @@ Formation and destruction of molecules heavily influence behaviour of star-formi
 
 Formaldehyde absorption lines in particular are useful due to its independence from the kinetic temperature of the gas, allowing them to be detected in cold molecular clouds. Hydrogen radio recombination lines (RRLs) on the other hand allow for determination of clouds' temperature, density, and kinematics, specifically in regions with high ionization fractions.
 
-We observe formaldehyde absorption lines and RRLs in selected molecular clouds in the Bolocam Galactic Plane Survey {% cite Aguirre2010 --file references %} using the Nanshan 25-m radio telescope in Xinjiang, China. 88 out of the 217 clouds was detected with formaldehyde absorption lines, and 11 clouds with RRLs. Majority of the sources also potrayed complex velocity structures in their spectra, indicating the presence of multiple velocity components in the clouds.
+We observe formaldehyde absorption lines and RRLs in selected molecular clouds in the Bolocam Galactic Plane Survey {% cite Aguirre2010 %} using the Nanshan 25-m radio telescope in Xinjiang, China. 88 out of the 217 clouds was detected with formaldehyde absorption lines, and 11 clouds with RRLs. Majority of the sources also potrayed complex velocity structures in their spectra, indicating the presence of multiple velocity components in the clouds.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

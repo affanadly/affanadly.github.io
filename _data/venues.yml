@@ -1,31 +1,31 @@
 "Sci":
   url: https://www.science.org/journal/science
-  color: "c72326"
+  color: "#c72326"
 
 "MNRAS":
   url: https://academic.oup.com/mnras
-  color: "7d66a2"
+  color: "#7d66a2"
 
 "MNRASL":
   url: https://academic.oup.com/mnrasl
-  color: "7d66a2"
+  color: "#7d66a2"
 
 "A&A":
   url: https://www.aanda.org/
-  color: "da4543"
+  color: "#da4543"
 
 "ApJ":
   url: https://iopscience.iop.org/journal/0004-637X
-  color: "3c5492"
+  color: "#3c5492"
 
 "ApJS":
   url: https://iopscience.iop.org/journal/0067-0049
-  color: "939bb2"
+  color: "#939bb2"
 
 "PASA":
   url: https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia
-  color: "010101"
+  color: "#010101"
 
 "PASJ": 
   url: https://academic.oup.com/pasj
-  color: "00305d"
+  color: "#00305d"

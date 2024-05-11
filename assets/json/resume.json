@@ -150,40 +150,49 @@
   "projects": [
     {
       "name": "RFI Mitigation using Spectral Kurtosis",
+      "url": "/projects/rfi/",
       "startDate": "2023-11"
     },
     {
       "name": "Formaldehyde and RRLs in Molecular Clouds",
+      "url": "/projects/formaldehyde/",
       "startDate": "2023-11"
     },
     {
       "name": "Radio Galaxies in Cluster Environments",
+      "url": "/projects/racs-mcxc/",
       "startDate": "2023-03"
     },
     {
       "name": "Water Maser Kinematics in RCW142",
+      "url": "/projects/rcw142/",
       "startDate": "2022-10"
     },
     {
       "name": "RAdio Galaxy Environment Reference Survey (RAGERS)",
+      "url": "https://www.eaobservatory.org/jcmt/science/large-programs/ragers/",
       "startDate": "2022-04"
     },
     {
       "name": "Protostellar Bowshocks in AFGL5142-MM1",
+      "url": "projects/afgl5142/",
       "startDate": "2021-07",
       "endDate": "2023-12"
     },
     {
       "name": "Radio Observations on Cosmic Filaments",
+      "url": "projects/cosmic_filament/",
       "startDate": "2021-08"
     },
     {
       "name": "Phantom FRBs and Coloured Noise",
+      "url": "/projects/phantom_frb/",
       "startDate": "2021-06",
       "endDate": "2022-06"
     },
     {
       "name": "Detection of Fast Radio Bursts",
+      "url": "/projects/frb_detection",
       "startDate": "2020-08",
       "endDate": "2021-06"
     }

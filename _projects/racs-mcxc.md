@@ -15,8 +15,7 @@ related_publications: true
     The Australian Square Kilometre Array Pathfinder (ASKAP) in Western Australia. Image credit: Alex Cherney
 </div>
 
-RACS-low Catalogue: {% cite Hale2021 --file references %}
-MCXC Catalogue: {% cite Piffaretti2011 --file references %}
+Galactic clusters and their environments are usually observed and investigated in X-ray, and one of such results is the MCXC catalogue {% cite Piffaretti2011 %}. However, the radio emission from the galaxies in these clusters is not well understood. The RACS-low catalogue {% cite Hale2021 %} is a radio survey of the southern sky using the Australian Square Kilometre Array Pathfinder (ASKAP), and it provides a unique opportunity to study the radio galaxies in these regions. I worked on the cluster matching, source count calculations, and population tests.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
