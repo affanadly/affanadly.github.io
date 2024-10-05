@@ -29,7 +29,7 @@ toc:
 
 # Itinerary
 
-## Day 1 (Wed, 30 October 2024)
+## Day 1 (30 October 2024)
 
 **6:20 AM** - Arrival at Incheon International Airport
 
@@ -162,13 +162,6 @@ toc:
 
 ---
 
-## Day 5 (3 November 2024)
-
-- Airport transfer from hotel to Incheon International Airport
-- 7:30 PM - Departure at Incheon International Airport
-
----
-
 # Flight Details
 
 {% details Airport Details %}
@@ -254,7 +247,7 @@ Prayer times for Seoul, South Korea based on JAKIM calculation.
     </thead>
     <tbody>
       <tr>
-        <td>Wed, 30 October 2024</td>
+        <td>30/10/2024</td>
         <td>5:28 AM</td>
         <td>6:55 AM</td>
         <td>12:16 PM</td>
@@ -263,7 +256,7 @@ Prayer times for Seoul, South Korea based on JAKIM calculation.
         <td>7:05 PM</td>
       </tr>
       <tr>
-        <td>Thu, 31 October 2024</td>
+        <td>31/10/2024</td>
         <td>5:29 AM</td>
         <td>6:56 AM</td>
         <td>12:16 PM</td>
@@ -272,7 +265,7 @@ Prayer times for Seoul, South Korea based on JAKIM calculation.
         <td>7:04 PM</td>
       </tr>
       <tr>
-        <td>Fri, 1 November 2024</td>
+        <td>1/11/2024</td>
         <td>5:30 AM</td>
         <td>6:57 AM</td>
         <td>12:16 PM</td>
@@ -281,7 +274,7 @@ Prayer times for Seoul, South Korea based on JAKIM calculation.
         <td>7:03 PM</td>
       </tr>
       <tr>
-        <td>Sat, 2 November 2024</td>
+        <td>2/11/2024</td>
         <td>5:31 AM</td>
         <td>6:58 AM</td>
         <td>12:16 PM</td>
@@ -290,7 +283,7 @@ Prayer times for Seoul, South Korea based on JAKIM calculation.
         <td>7:02 PM</td>
       </tr>
       <tr>
-        <td>Sun, 3 November 2024</td>
+        <td>3/11/2024</td>
         <td>5:32 AM</td>
         <td>6:59 AM</td>
         <td>12:16 PM</td>
