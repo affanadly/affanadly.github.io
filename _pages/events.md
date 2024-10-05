@@ -13,7 +13,7 @@ pretty_table: true
 | Jun 2024 | [JCMT Users Meeting 2024](https://www.eaobservatory.org/jcmt/science/users-meeting-2024/) | Kuala Lumpur, Malaysia | LOC Co-Chair |
 | Aug 2023 | [Decoding the Universe](https://sites.google.com/view/decoding-the-universe/) | Online | LOC |
 | May - Jun 2023 | [JCMT Users Meeting 2023](https://www.eaobservatory.org/jcmt/science/users-meeting-2023/) | Hybrid | Participant |
-| Jan - Feb 2023 | [International Astronomical Union (IAU) Symposium 377](https://www.mso.anu.edu.au/~yting/Malaysia_IAU/) | Kuala Lumpur, Malaysia | LOC |
+| Jan - Feb 2023 | [International Astronomical Union (IAU) Symposium 377](https://www.asc.ohio-state.edu/ting.74/Malaysia_IAU/index.html) | Kuala Lumpur, Malaysia | LOC |
 | Jan 2023 | [Global Malaysian Astronomers Convention 2023](https://sites.google.com/view/gmac2020-science/) | Kuala Lumpur, Malaysia | Participant |
 | Sep 2022 | [The 2nd Malaysian VLBI Workshop 2022](https://sites.google.com/view/2myvlbiworkshop) | Hybrid | Participant |
 | Aug 2022 | [2nd UM-NARIT Online Bilateral Symposium 2022](https://sites.google.com/view/um-naritsymposium2022/home) | Online | Participant |
