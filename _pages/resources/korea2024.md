@@ -7,11 +7,11 @@ description: Details for Korea 2024 trip.
 toc:
 - name: Itinerary
   subsections:
-    - name: Wednesday, 30/10/2024
-    - name: Thursday, 31/10/2024
-    - name: Friday, 1/11/2024
-    - name: Saturday, 2/11/2024
-    - name: Sunday, 3/11/2024
+    - name: Wednesday 30-10-2024
+    - name: Thursday 31-10-2024
+    - name: Friday 1-11-2024
+    - name: Saturday 2-11-2024
+    - name: Sunday 3-11-2024
 - name: Flight Details
 - name: Accomodation
 - name: Prayer Times
@@ -28,11 +28,13 @@ p + ul {
 
 # Itinerary
 
-## Wednesday, 30/10/2024
+## Wednesday 30-10-2024
 
 **6:20 AM** - Arrival at Incheon International Airport
+* Subuh prayers performed on the plane as *Solat Hormat Waktu* (required to qada')
 
 **8:00 AM** - Depart from airport to hotel
+* ETA: 1 hour
 
 **9:00 AM** - Arrival at hotel
 * Drop off luggage
@@ -63,15 +65,16 @@ p + ul {
 **X:XX PM** - [Itaewon (이태원)](https://naver.me/F8KuNf61)  
 :metro: Line 6 - [Itaewon Station (이태원역)](https://naver.me/xn6GdoeP)
 * Grocery shopping
+* Prayers (Maghrib)
 
-> Not sure where to have dinner, takeaway?
+> Dinner?
 
 **X:XX PM** - Depart to hotel :small_orange_diamond:
 
 **X:XX PM** - Arrive at hotel
-* Prayers (Maghrib and Isyak)
+* Prayers (Isyak)
 
-## Thursday, 31/10/2024
+## Thursday 31-10-2024
 
 **8:00 AM** - Departure to Gapyeong (가평)
 * ETA: 1 hour 30 minutes
@@ -83,17 +86,27 @@ p + ul {
 * Take ferry from [Nami Island Pier (남이섬종합휴양지선착장)](https://naver.me/G99UO91h) to Nami Island
 
 **11:30 AM** - [Nami Island (남이섬)](https://naver.me/FNmlaLJH)
+* Prayers (Zohor)
 * Lunch
-* Prayers (Zohor and Asar)
+* Prayers (Asar)
 
-**4:30 PM** - Depart to hotel
+**4:30 PM** - Depart to Han River :small_orange_diamond:
 * ETA: 1 hour 30 minutes
 
-**6:00 PM** - Arrive at hotel
+**6:00 PM** - Han River (한강)
+* [Banpo Bridge Moonlight Rainbow Fountain (반포대교달빛무지개분수)](https://naver.me/GGhCouHM)
+* Fountain show timings: 7:30 PM, 8:00 PM, 8:30 PM, 9:00 PM (20 minutes each)
+* Prayers (Maghrib)
 
-> Night activity? 
+> Dinner?
 
-## Friday, 1/11/2024
+**X:XX PM** - Depart to hotel :small_orange_diamond:
+* ETA: 15 - 30 minutes
+
+**X:XX PM** - Arrive at hotel
+* Prayers (Isyak)
+
+## Friday 1-11-2024
 
 **8:30 PM** - Depart to Namsan (남산)
 * ETA: 15 minutes
@@ -125,10 +138,11 @@ p + ul {
 **5:50 PM** - Depart to hotel
 
 **6:00 PM** - Arrive at hotel
+* Prayers (Maghrib and Isyak)
 
-> Night activity? Maybe can bring DDP to this day?
+> Dinner?
 
-## Saturday, 2/11/2024
+## Saturday 2-11-2024
 
 **8:30 AM** - Depart to Gwangjang Market
 * ETA: 20 minutes
@@ -148,25 +162,24 @@ p + ul {
 **1:45 PM** - [Yonsei University (연세대학교)](https://naver.me/GIqfMzoX)
 * [KVN Yonsei Radio Observatory (한국우주전파관측망연세전파천문대)](https://naver.me/FT0s5J4C)
 
-**X:XX PM** - Depart to Han River
-* ETA: 30 minutes
-
-**X:XX PM** - Han River (한강)
-* [Banpo Bridge Moonlight Rainbow Fountain (반포대교달빛무지개분수)](https://naver.me/GGhCouHM)
-
 **X:XX PM** - Depart to Dongdaemun Design Plaza
+* ETA: 30 minutes
 
 **X:XX PM** - [Dongdaemun Design Plaza (동대문디자인플라자)](https://naver.me/FeOCTmVS)
 
 **X:XX PM** - Depart to hotel
+* ETA: 15 - 20 minutes
 
 **X:XX PM** - Arrive at hotel
 
-## Sunday, 3/11/2024
+> Dinner
 
-> Morning and afternoon activity?
+## Sunday 3-11-2024
 
-**X:XX AM** - Departure from hotel to airport
+> Morning activity?
+
+**2:00 PM** - Departure from hotel to airport
+* ETA: 1 hour
 
 **7:30 PM** - Departure at Incheon International Airport
 
@@ -176,7 +189,7 @@ Locations to add:
 
 1. Jonggak Underground Shopping Center
 2. Myeongdong Underground Shopping Center
-3. Ewha Womans University
+3. Ehwa Womans University
 4. Olympic Park
 
 To be updated:
@@ -257,7 +270,8 @@ Naver Map: [Link](https://naver.me/FhAdA2iC)
 # Prayer Times
 
 Prayer times for Seoul, South Korea based on JAKIM calculation.
-<table style="width:100%; font-size:12px">
+<div style="overflow-x: scroll;">
+<table style="width:100%; font-size:12px;">
   <thead>
     <tr>
       <th style="width:25%;">Date</th>
@@ -317,3 +331,4 @@ Prayer times for Seoul, South Korea based on JAKIM calculation.
     </tr>
   </tbody>
 </table>
+</div>
