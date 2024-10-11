@@ -31,7 +31,7 @@ p + ul {
 ## Wednesday 30-10-2024
 
 **6:20 AM** - Arrival at Incheon International Airport
-* Subuh prayers performed on the plane as *Solat Hormat Waktu* (required to qada')
+* Prayers (Subuh) performed on the plane as *Solat Hormat Waktu* (required to qada')
 
 **8:00 AM** - Depart from airport to hotel
 * ETA: 1 hour
@@ -39,37 +39,39 @@ p + ul {
 **9:00 AM** - Arrival at hotel
 * Drop off luggage
 
-**X:XX AM** - Depart to Namdaemun Market :small_orange_diamond:
+**9:15 AM** - Depart to Namdaemun Market :white_medium_square:
 * ETA: 15 minutes (by bus), 7 minutes (by taxi)
+* Drop-off location: Exit 5 [Hoehyeon Station (회현역)](https://naver.me/Go26ECZC)
 
-**10:00 AM** - [Namdaemun Market (남대문시장)](https://naver.me/x0aUDbL5)  
-:metro: Line 4 - [Hoehyeon Station (회현역)](https://naver.me/Go26ECZC)
+**9:30 AM** - [Namdaemun Market (남대문시장)](https://naver.me/x0aUDbL5)  
+* Brooch - [Namdaemun Flower Shopping Arcade (남대문꽃종합상가)](https://naver.me/FDQnbzIW)
+* Souvenir - [Daedo Shopping Tower (대도종합상가)](https://naver.me/xMjayxgF)
 
-**X:XX AM** - Depart to Myeongdong :small_orange_diamond:
+**12:00 AM** - Depart to Myeongdong :white_medium_square:
 * ETA: 10 minutes (by bus), 5 minutes (by taxi)
+* Drop-off location: Exit 3 [Myeongdong Station (명동역)](https://naver.me/FQR0YZor)
 
-**12:00 PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)  
-:metro: Line 4 - [Myeongdong Station (명동역)](https://naver.me/FQR0YZor)
-* Lunch
+**12:15 PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)  
+* Lunch at [Kampungku (칸푸쿠)](https://naver.me/GlVGun4L)
+* Prayers (Zohor) at Kampungku
 
-**2:00 PM** - Depart to hotel :small_orange_diamond:
+**2:15 PM** - Depart to hotel :white_medium_square:
 * ETA: 15 minutes (by bus), 7 minutes (by taxi)
 
-**X:XX PM** - Arrive at hotel
+**2:30 PM** - Arrive at hotel
 * Check-in
-* Prayers (Zohor and Asar)
+* Prayers (Asar)
 
-**X:XX PM** - Depart to Itaewon :small_orange_diamond:
-* ETA: 30 minutes (by bus), 15 - 30 minutes (by taxi)
+**X:XX PM** - Depart to Myeongdong :white_medium_square:
+* ETA: 15 minutes (by bus), 7 minutes (by taxi)
+* Drop-off location: Exit 3 [Myeongdong Station (명동역)](https://naver.me/FQR0YZor)
 
-**X:XX PM** - [Itaewon (이태원)](https://naver.me/F8KuNf61)  
-:metro: Line 6 - [Itaewon Station (이태원역)](https://naver.me/xn6GdoeP)
-* Grocery shopping
+**X:XX PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)
+* Dinner
 * Prayers (Maghrib)
 
-> Dinner?
-
-**X:XX PM** - Depart to hotel :small_orange_diamond:
+**X:XX PM** - Depart to hotel :white_medium_square:
+* ETA: 15 minutes (by bus), 7 minutes (by taxi)
 
 **X:XX PM** - Arrive at hotel
 * Prayers (Isyak)
@@ -87,10 +89,10 @@ p + ul {
 
 **11:30 AM** - [Nami Island (남이섬)](https://naver.me/FNmlaLJH)
 * Prayers (Zohor)
-* Lunch
+* Lunch at Asian Family Restaurant Dongmoon (아시안패밀리레스토랑 동문)
 * Prayers (Asar)
 
-**4:30 PM** - Depart to Han River :small_orange_diamond:
+**4:30 PM** - Depart to Han River :white_medium_square:
 * ETA: 1 hour 30 minutes
 
 **6:00 PM** - Han River (한강)
@@ -98,13 +100,13 @@ p + ul {
 * Fountain show timings: 7:30 PM, 8:00 PM, 8:30 PM, 9:00 PM (20 minutes each)
 * Prayers (Maghrib)
 
-> Dinner?
-
-**X:XX PM** - Depart to hotel :small_orange_diamond:
-* ETA: 15 - 30 minutes
+**X:XX PM** - Depart to hotel :white_medium_square:
+* ETA: 
 
 **X:XX PM** - Arrive at hotel
 * Prayers (Isyak)
+
+> Dinner (Takeaway/Cook)
 
 ## Friday 1-11-2024
 
@@ -130,17 +132,29 @@ p + ul {
 **3:30 PM** - Depart to Cheonggyecheon Stream
 
 **3:45 PM** - [Cheonggyecheon Stream (청계천)](https://naver.me/x50GMVgX)
+* [President Hotel (프레지던트 호텔)](https://naver.me/xVlBsnIp)
 
 **4:30 PM** - [Gwanghwamun Square (광화문광장)](https://naver.me/xivmy0Vx)
-* [Gyeongbokgung Palace (경복궁)](https://naver.me/FLBKTWSB)
 * [King Sejong Statue (세종대왕동상)](https://naver.me/F4Nngevh)
+* [Gyeongbokgung Palace (경복궁)](https://naver.me/FLBKTWSB)
 
 **5:50 PM** - Depart to hotel
 
 **6:00 PM** - Arrive at hotel
 * Prayers (Maghrib and Isyak)
 
+**X:XX PM** - Depart to Myeongdong :white_medium_square:
+* ETA: 15 minutes (by bus), 7 minutes (by taxi)
+* Drop-off location: Exit 3 [Myeongdong Station (명동역)](https://naver.me/FQR0YZor)
+
+**X:XX PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)
+
 > Dinner?
+
+**X:XX PM** - Depart to hotel :white_medium_square:
+* ETA: 
+
+**X:XX PM** - Arrive at hotel
 
 ## Saturday 2-11-2024
 
@@ -154,7 +168,7 @@ p + ul {
 
 **11:30 AM** - [Hongdae (홍대)](https://naver.me/xUStvrzY)
 * Lunch
-* Prayers (Zohor)
+* Prayers (Zohor) at [Sinchon Tourist Information Center (신촌관광안내센터)](https://naver.me/FQaLRgBx)
 
 **1:30 PM** - Depart to Yonsei University
 * ETA: 15 minutes
@@ -162,13 +176,23 @@ p + ul {
 **1:45 PM** - [Yonsei University (연세대학교)](https://naver.me/GIqfMzoX)
 * [KVN Yonsei Radio Observatory (한국우주전파관측망연세전파천문대)](https://naver.me/FT0s5J4C)
 
-**X:XX PM** - Depart to Dongdaemun Design Plaza
+**2:30 PM** - Depart to Olympic Park
+* ETA: 45 minutes
+
+**3:15 PM** - [Olympic Park (올림픽공원)](https://naver.me/5fnj3ZkO)
+
+**X:XX PM** - Depart to hotel
+* ETA: 30 - 40 minutes
+
+**X:XX PM** - Arrive at hotel
+
+**X:XX PM** - Depart to Dongdaemun Design Plaza :white_medium_square:
 * ETA: 30 minutes
 
 **X:XX PM** - [Dongdaemun Design Plaza (동대문디자인플라자)](https://naver.me/FeOCTmVS)
 
-**X:XX PM** - Depart to hotel
-* ETA: 15 - 20 minutes
+**X:XX PM** - Depart to hotel :white_medium_square:
+* ETA: 30 minutes
 
 **X:XX PM** - Arrive at hotel
 
@@ -182,21 +206,6 @@ p + ul {
 * ETA: 1 hour
 
 **7:30 PM** - Departure at Incheon International Airport
-
----
-
-Locations to add:
-
-1. Jonggak Underground Shopping Center
-2. Myeongdong Underground Shopping Center
-3. Ehwa Womans University
-4. Olympic Park
-
-To be updated:
-
-1. Separate Han River and DDP to different days
-2. Update timings for each location
-3. Add more details for each location 
 
 ---
 
