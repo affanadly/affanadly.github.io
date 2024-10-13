@@ -1,27 +1,29 @@
 ---
-layout: distill
+layout: post
+date: 2024-10-13 21:00:00 +0800
 permalink: /resources/korea2024/
 title: Korea 2024 Trip
 description: Details for Korea 2024 trip.
+tabs: true
 
 toc:
-- name: Itinerary
-  subsections:
-    - name: Wednesday 30-10-2024
-    - name: Thursday 31-10-2024
-    - name: Friday 1-11-2024
-    - name: Saturday 2-11-2024
-    - name: Sunday 3-11-2024
-- name: Flight Details
-- name: Accomodation
-- name: Prayer Times
-
+  sidebar: left
+# - name: Itinerary
+#   subsections:
+#     - name: Wednesday 30-10-2024
+#     - name: Thursday 31-10-2024
+#     - name: Friday 1-11-2024
+#     - name: Saturday 2-11-2024
+#     - name: Sunday 3-11-2024
+# - name: Flight Details
+# - name: Accomodation
+# - name: Prayer Times
 ---
 
 {% raw %}
 <style>
 p + ul {
-  margin-bottom: +30px;
+  margin-bottom: +25px;
 }
 </style>
 {% endraw %}
@@ -237,10 +239,12 @@ p + ul {
 {% tabs teams %}
 
 {% tab teams Kajang Team %}
+
 **10:00 AM** - Departure to [Jung-gu Toegye-ro 22-gil 13-6 (중구 퇴계로22길 13-6)](https://naver.me/GxkLiz2A)
 * ETA: 10 minutes
 
 **10:15 AM** - [Jung-gu Toegye-ro 22-gil 13-6 (중구 퇴계로22길 13-6)](https://naver.me/GxkLiz2A)
+
 {% endtab %}
 
 {% tab teams Puchong/Ampang Team %}
@@ -268,50 +272,17 @@ p + ul {
 
 # Flight Details
 
-<table style="width:100%">
-  <tr>
-    <th style="width:30%">Departure Flight</th>
-    <th style="width:70%">KUL  →  ICN</th>
-  </tr>
-  <tr>
-    <td>Number</td>
-    <td>D7 504 (AirAsia)</td>
-  </tr>
-  <tr>
-    <td>Departure</td>
-    <td>29 October 2024, 10:50 PM (GMT+8)</td>
-  </tr>
-  <tr>
-    <td>Arrival</td>
-    <td>30 October 2024, 6:20 AM (GMT+8)</td>
-  </tr>
-</table>
+## Departure Flight (KUL  →  ICN)
 
-<table style="width:100%">
-  <tr>
-    <th style="width:30%">Return Flight</th>
-    <th style="width:70%">ICN  →  KUL</th>
-  </tr>
-  <tr>
-    <td>Number</td>
-    <td>D7 507 (AirAsia)</td>
-  </tr>
-  <tr>
-    <td>Departure</td>
-    <td>3 November 2024, 7:30 PM (GMT+8)</td>
-  </tr>
-  <tr>
-    <td>Arrival</td>
-    <td>3 November 2024, 11:40 PM (GMT+8)</td>
-  </tr>
-</table>
+**Number:** D7 504 (AirAsia)  
+**Departure:** 29 October 2024 - 10:50 PM (GMT+8)  
+**Arrival:** 30 October 2024 - 6:20 AM (GMT+8)  
 
-{% details Airport Details %}
-| Airport Name | Country | Code |
-|--------------|---------|------|
-| Kuala Lumpur International Airport Terminal 2 | Malaysia | KUL |
-| Incheon International Airport Terminal 1 | South Korea | ICN |
-{% enddetails %}
+## Return Flight (ICN  →  KUL)
+
+**Number:** D7 507 (AirAsia)  
+**Departure:** 3 November 2024 - 7:30 PM (GMT+8)  
+**Arrival:** 3 November 2024 - 11:40 PM (GMT+8)  
 
 ---
 
