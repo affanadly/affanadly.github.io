@@ -240,7 +240,7 @@ p + ul {
 
 {% tab teams Kajang Team %}
 
-**10:00 AM** - Departure to [Jung-gu Toegye-ro 22-gil 13-6 (중구 퇴계로22길 13-6)](https://naver.me/GxkLiz2A)
+**10:00 AM** - Departure to Jung-gu Toegye-ro 22-gil 13-6 (중구 퇴계로22길 13-6)
 * ETA: 10 minutes
 
 **10:15 AM** - [Jung-gu Toegye-ro 22-gil 13-6 (중구 퇴계로22길 13-6)](https://naver.me/GxkLiz2A)
@@ -272,14 +272,16 @@ p + ul {
 
 # Flight Details
 
-## Departure Flight (KUL  →  ICN)
+## Departure Flight
 
+**(KUL  →  ICN)**
 **Number:** D7 504 (AirAsia)  
 **Departure:** 29 October 2024 - 10:50 PM (GMT+8)  
 **Arrival:** 30 October 2024 - 6:20 AM (GMT+8)  
 
-## Return Flight (ICN  →  KUL)
+## Return Flight
 
+**(ICN  →  KUL)**
 **Number:** D7 507 (AirAsia)  
 **Departure:** 3 November 2024 - 7:30 PM (GMT+8)  
 **Arrival:** 3 November 2024 - 11:40 PM (GMT+8)  
