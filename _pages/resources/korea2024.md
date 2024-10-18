@@ -71,6 +71,7 @@ p + ul {
 
 **5:30 PM** - Arrive at hotel
 * Prayers (Maghrib)
+* Dinner - 
 
 **7:00 PM** - Depart to Myeongdong (명동)
 * ETA: 15 minutes (bus), 7 minutes (taxi)
@@ -105,7 +106,7 @@ p + ul {
 
 **6:00 PM** - Arrive at hotel
 * Prayers (Maghrib)
-* Dinner
+* Dinner - 
 
 **6:45 PM** - Depart to Han River (한강)
 * ETA: 30 minutes (bus), 15 minutes (taxi)
@@ -156,7 +157,7 @@ p + ul {
 
 **6:00 PM** - Arrive at hotel
 * Prayers (Maghrib)
-* Dinner
+* Dinner - 
 
 **6:30 PM**: Depart to Gangnam (강남)
 * ETA: 50 minutes (train), 45 minutes (bus), 30 minutes (taxi)
@@ -211,7 +212,7 @@ p + ul {
 
 **6:00 PM** - Arrive at hotel
 * Prayers (Maghrib)
-* Dinner
+* Dinner - 
 
 **7:00 PM** - Depart to Myeongdong (명동)
 * ETA: 15 minutes (bus), 7 minutes (taxi)
