@@ -5,19 +5,12 @@ permalink: /resources/korea2024/
 title: Korea 2024 Trip
 description: Details for Korea 2024 trip.
 tabs: true
+images:
+  slider: true
 
 toc:
   sidebar: left
-# - name: Itinerary
-#   subsections:
-#     - name: Wednesday 30-10-2024
-#     - name: Thursday 31-10-2024
-#     - name: Friday 1-11-2024
-#     - name: Saturday 2-11-2024
-#     - name: Sunday 3-11-2024
-# - name: Flight Details
-# - name: Accomodation
-# - name: Prayer Times
+  sticky: true
 ---
 
 {% raw %}
@@ -78,13 +71,12 @@ p + ul {
 
 **5:30 PM** - Arrive at hotel
 * Prayers (Maghrib)
-* Dinner
 
-**7:30 PM** - Depart to Myeongdong (명동)
+**7:00 PM** - Depart to Myeongdong (명동)
 * ETA: 15 minutes (bus), 7 minutes (taxi)
 * Drop-off location: Exit 6 [Myeongdong Station (명동역)](https://naver.me/FQR0YZor)
 
-**7:45 PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)
+**7:15 PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)
 * Myeongdong Night Market
 
 **9:45 PM** - Depart to hotel
@@ -115,10 +107,10 @@ p + ul {
 * Prayers (Maghrib)
 * Dinner
 
-**8:00 PM** - Depart to Han River (한강)
+**6:45 PM** - Depart to Han River (한강)
 * ETA: 30 minutes (bus), 15 minutes (taxi)
 
-**8:30 PM** - Han River (한강)
+**7:15 PM** - Han River (한강)
 * [Banpo Bridge Moonlight Rainbow Fountain (반포대교달빛무지개분수)](https://naver.me/GGhCouHM)
 * Fountain show timings: 7:30 PM, 8:00 PM, 8:30 PM, 9:00 PM (20 minutes each), only between April-June, September-October
 
@@ -166,11 +158,11 @@ p + ul {
 * Prayers (Maghrib)
 * Dinner
 
-**8:00 PM**: Depart to Gangnam (강남)
+**6:30 PM**: Depart to Gangnam (강남)
 * ETA: 50 minutes (train), 45 minutes (bus), 30 minutes (taxi)
 * Drop-off location: Any exit at [Gangnam Station (강남역)](https://naver.me/FM1XyM8D)
 
-**9:00 PM**: [Gangnam (강남)](https://naver.me/xpPscmwv)
+**7:15 PM**: [Gangnam (강남)](https://naver.me/xpPscmwv)
 * Gangnam Underground Shopping Center (강남지하도상가)
 
 **10:00 PM**: Depart to hotel
@@ -221,11 +213,11 @@ p + ul {
 * Prayers (Maghrib)
 * Dinner
 
-**8:00 PM** - Depart to Myeongdong (명동)
+**7:00 PM** - Depart to Myeongdong (명동)
 * ETA: 15 minutes (bus), 7 minutes (taxi)
 * Drop-off location: Exit 6 [Myeongdong Station (명동역)](https://naver.me/FQR0YZor)
 
-**8:15 PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)
+**7:15 PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)
 * Myeongdong Night Market
 
 **9:45 PM** - Depart to hotel
