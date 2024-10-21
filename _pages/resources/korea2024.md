@@ -286,10 +286,10 @@ p + ul {
 **Fraser Place Central Seoul (프레이저 플레이스 센트럴)**
 
 <div class="row">
-  <div class="col-sm">
+  <div class="col-sm" style="width:50%">
     {% include figure.liquid path="/assets/img/resources/korea2024/fraserplace1.jpg" class="img-fluid" style="height: auto;" zoomable=true %}
   </div>
-  <div class="col-sm">
+  <div class="col-sm" style="width:50%">
     {% include figure.liquid path="/assets/img/resources/korea2024/fraserplace2.jpg" class="img-fluid" style="height: auto;" zoomable=true %}
   </div>
 </div>
@@ -300,6 +300,8 @@ Naver Map: [Link](https://naver.me/FhAdA2iC)
 ---
 
 # Prayer Times
+
+The qibla direction for Seoul, South Korea is **257.0° WSW**.
 
 Prayer times for Seoul, South Korea based on JAKIM calculation.
 <div style="overflow-x: scroll;">
