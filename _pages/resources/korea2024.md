@@ -5,10 +5,8 @@ permalink: /resources/korea2024/
 title: Korea 2024 Trip
 description: Details for Korea 2024 trip.
 tabs: true
-images:
-  slider: true
 
-toc:
+toc: 
   sidebar: left
   sticky: true
 ---
@@ -18,10 +16,15 @@ toc:
 p + ul {
   margin-bottom: +25px;
 }
+
 </style>
 {% endraw %}
 
+---
+
 # Itinerary
+
+---
 
 ## Wednesday 30-10-2024
 
