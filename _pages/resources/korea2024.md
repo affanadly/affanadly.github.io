@@ -274,13 +274,22 @@ p + ul {
 
 {% tab teams Puchong/Ampang Team %}
 
-**8:00 AM** - Departure to Seoul Forest (서울숲)  
-* ETA: 30 minutes (train), 45 minutes (bus), 25 minutes (taxi)
+**8:00 AM** - Departure to Seoul Forest (서울숲) or Seosulla-gil (서순라길) 
+* ETA: 30 minutes (train), 45 minutes (bus), 25 minutes (taxi) or 20 minutes (train), 30 minutes (bus), 15 minutes (taxi)
 
-**8:30 AM** - [Seoul Forest (서울숲)](https://naver.me/xC6ir63v)
+<div class="row">
+  <div class="col-sm" style="width:50%">
+    {% include figure.liquid path="/assets/img/resources/korea2024/seoulforest.jpg" caption="Seoul Forest" class="img-fluid" style="height: auto;" zoomable=true %}
+  </div>
+  <div class="col-sm" style="width:50%">
+    {% include figure.liquid path="/assets/img/resources/korea2024/seosullagil.jpg" caption="Seosulla-gil" class="img-fluid" style="height: auto;" zoomable=true %}
+  </div>
+</div>
+
+**8:30 AM** - [Seoul Forest (서울숲)](https://naver.me/xC6ir63v) or [Seosulla-gil (서순라길)](https://naver.me/GVSCwbiw)
 
 **10:00 AM** - Depart to hotel
-* ETA: 30 minutes (train), 45 minutes (bus), 25 minutes (taxi)
+* ETA: 30 minutes (train), 45 minutes (bus), 25 minutes (taxi) or 20 minutes (train), 30 minutes (bus), 15 minutes (taxi)
 
 **10:30 AM** - Arrive at hotel
 
@@ -297,16 +306,14 @@ p + ul {
 
 # Flight Details
 
-## Departure Flight
+## Departure Flight **(KUL  →  ICN)**
 
-**(KUL  →  ICN)**  
 **Number:** D7 504 (AirAsia)  
 **Departure:** 29 October 2024 - 10:50 PM (GMT+8)  
 **Arrival:** 30 October 2024 - 6:20 AM (GMT+8)  
 
-## Return Flight
+## Return Flight **(ICN  →  KUL)**
 
-**(ICN  →  KUL)**  
 **Number:** D7 507 (AirAsia)  
 **Departure:** 3 November 2024 - 7:30 PM (GMT+8)  
 **Arrival:** 3 November 2024 - 11:40 PM (GMT+8)  
