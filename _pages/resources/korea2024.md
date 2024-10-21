@@ -28,8 +28,8 @@ p + ul {
   - [Saturday 2-11-2024](#saturday-2-11-2024)
   - [Sunday 3-11-2024](#sunday-3-11-2024)
 - [Flight Details](#flight-details)
-  - [Departure Flight **(KUL to ICN)**](#departure-flight-kul-to-icn)
-  - [Return Flight **(ICN to KUL)**](#return-flight-icn-to-kul)
+  - [Departure Flight (KUL to ICN)](#departure-flight-kul-to-icn)
+  - [Return Flight (ICN to KUL)](#return-flight-icn-to-kul)
 - [Accomodation](#accomodation)
 - [Prayer Times](#prayer-times)
 
@@ -322,13 +322,13 @@ p + ul {
 
 # Flight Details
 
-## Departure Flight **(KUL to ICN)**
+## Departure Flight (KUL to ICN)
 
 **Number:** D7 504 (AirAsia)  
 **Departure:** 29 October 2024 - 10:50 PM (GMT+8)  
 **Arrival:** 30 October 2024 - 6:20 AM (GMT+8)  
 
-## Return Flight **(ICN to KUL)**
+## Return Flight (ICN to KUL)
 
 **Number:** D7 507 (AirAsia)  
 **Departure:** 3 November 2024 - 7:30 PM (GMT+8)  
