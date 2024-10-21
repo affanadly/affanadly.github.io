@@ -38,6 +38,8 @@ p + ul {
 * ETA: 15 minutes (bus), 7 minutes (taxi)
 * Drop-off location: Exit 5 [Hoehyeon Station (회현역)](https://naver.me/Go26ECZC)
 
+{% include figure.liquid path="/assets/img/resources/korea2024/namdaemun.png" caption="Namdaemun Market" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
+
 **9:30 AM** - [Namdaemun Market (남대문시장)](https://naver.me/x0aUDbL5)  
 * Brooch - [Namdaemun Flower Shopping Arcade (남대문꽃종합상가)](https://naver.me/FDQnbzIW)
 * Souvenir - [Daedo Shopping Tower (대도종합상가)](https://naver.me/xMjayxgF)
@@ -46,6 +48,8 @@ p + ul {
 **12:00 AM** - Depart to Myeongdong (명동)
 * ETA: 4 minutes (train), 10 minutes (bus), 5 minutes (taxi)
 * Drop-off location: Exit 3 [Myeongdong Station (명동역)](https://naver.me/FQR0YZor)
+
+{% include figure.liquid path="/assets/img/resources/korea2024/myeongdong1.png" caption="Myeongdong Street" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
 
 **12:15 PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)  
 * Lunch - [Kampungku (카뭉구)](https://naver.me/GlVGun4L)
@@ -77,6 +81,8 @@ p + ul {
 * ETA: 15 minutes (bus), 7 minutes (taxi)
 * Drop-off location: Exit 6 [Myeongdong Station (명동역)](https://naver.me/FQR0YZor)
 
+{% include figure.liquid path="/assets/img/resources/korea2024/myeongdong2.png" caption="Myeongdong Night Market" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
+
 **7:15 PM** - [Myeongdong (명동)](https://naver.me/F8KuNf61)
 * Myeongdong Night Market
 
@@ -91,11 +97,15 @@ p + ul {
 **8:00 AM** - Departure to Gapyeong (가평)
 * ETA: 1 hour 30 minutes
 
+{% include figure.liquid path="/assets/img/resources/korea2024/gardenofmorningcalm" caption="Garden of Morning Calm" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
+
 **9:30 AM** - [Garden of Morning Calm (아침고요수목원)](https://naver.me/5AmfmcJx)
 
 **11:00 AM** - Depart to Nami Island (남이섬)
 * ETA: 30 minutes
 * Take ferry from [Nami Island Pier (남이섬종합휴양지선착장)](https://naver.me/G99UO91h) to Nami Island
+
+{% include figure.liquid path="/assets/img/resources/korea2024/namiisland.jpg" caption="Nami Island" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
 
 **11:30 AM** - [Nami Island (남이섬)](https://naver.me/FNmlaLJH)
 * Lunch - Asian Family Restaurant Dongmoon (아시안패밀리레스토랑 동문)
@@ -110,6 +120,8 @@ p + ul {
 
 **6:45 PM** - Depart to Han River (한강)
 * ETA: 30 minutes (bus), 15 minutes (taxi)
+
+{% include figure.liquid path="/assets/img/resources/korea2024/hanriver.png" caption="Banpo Bridge Moonlight Rainbow Fountain, Han River" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
 
 **7:15 PM** - Han River (한강)
 * [Banpo Bridge Moonlight Rainbow Fountain (반포대교달빛무지개분수)](https://naver.me/GGhCouHM)
@@ -127,10 +139,14 @@ p + ul {
 * ETA: 15 minutes
 * Take cable car from [Namsan Cable Car Station (남산케이블카)](https://naver.me/xScFB5e1) to Namsan
 
+{% include figure.liquid path="/assets/img/resources/korea2024/ntower.png" caption="N Seoul Tower, Namsan" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
+
 **8:30 AM** - [N Seoul Tower (남산서울타워)](https://naver.me/GFpBsBO2)
 
 **11:15 AM** - Depart to Itaewon
 * ETA: 15 - 30 minutes
+
+{% include figure.liquid path="/assets/img/resources/korea2024/seoulcentralmosque.jpg" caption="Seoul Central Mosque, Itaewon" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
 
 **11:45 AM** - [Itaewon (이태원)](https://naver.me/xn6GdoeP)
 * Friday Prayers - [Seoul Central Mosque (한국이슬람교 서울중앙성원)](https://naver.me/Ft80P4pz)
@@ -139,6 +155,8 @@ p + ul {
 **1:45 PM** - Depart to Bukchon Hanok Village
 * ETA: 30 minutes
 
+{% include figure.liquid path="/assets/img/resources/korea2024/bukchon.jpg" caption="Bukchon Hanok Village" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
+
 **2:15 PM** - [Bukchon Hanok Village (북촌한옥마을)](https://naver.me/5Z0vS8IR)
 
 **3:00 PM** - Depart to Cheonggyecheon Stream
@@ -146,6 +164,8 @@ p + ul {
 
 **3:15 PM** - [Cheonggyecheon Stream (청계천)](https://naver.me/x50GMVgX)
 * Prayers (Asar) - [Korea Travel Organization Seoul Center (관광안내전시관)](https://naver.me/GmVdNQ4k)
+
+{% include figure.liquid path="/assets/img/resources/korea2024/gwanghwamun.jpg" caption="Gwanghwamun Gate" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
 
 **5:00 PM** - [Gwanghwamun Square (광화문광장)](https://naver.me/xivmy0Vx)
 * [King Sejong Statue (세종대왕동상)](https://naver.me/F4Nngevh)
@@ -163,6 +183,8 @@ p + ul {
 * ETA: 50 minutes (train), 45 minutes (bus), 30 minutes (taxi)
 * Drop-off location: Any exit at [Gangnam Station (강남역)](https://naver.me/FM1XyM8D)
 
+{% include figure.liquid path="/assets/img/resources/korea2024/gangnam.jpg" caption="Gangnam" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
+
 **7:15 PM**: [Gangnam (강남)](https://naver.me/xpPscmwv)
 * Gangnam Underground Shopping Center (강남지하도상가)
 
@@ -177,10 +199,14 @@ p + ul {
 **8:00 AM** - Depart to Gwangjang Market (광장시장)
 * ETA: 20 minutes
 
+{% include figure.liquid path="/assets/img/resources/korea2024/gwangjang.png" caption="Gwangjang Market" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
+
 **8:20 AM** - [Gwangjang Market (광장시장)](https://naver.me/xFprKyPp)
 
 **11:00 AM** - Depart to Sinchon (신촌)
 * ETA: 15 minutes
+
+{% include figure.liquid path="/assets/img/resources/korea2024/yonsei.jpg" caption="Yonsei University Underwood Hall" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
 
 **11:15 AM** - [Yonsei University (연세대학교)](https://naver.me/GIqfMzoX)
 * [KVN Yonsei Radio Observatory (한국우주전파관측망연세전파천문대)](https://naver.me/FT0s5J4C)
@@ -188,6 +214,8 @@ p + ul {
 
 **12:00 PM** - Depart to Hongdae (홍대)
 * ETA: 10 minutes
+
+{% include figure.liquid path="/assets/img/resources/korea2024/hongdae.jpg" caption="Hongdae" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
 
 **12:10 AM** - [Hongdae (홍대)](https://naver.me/xUStvrzY)
 * [Hongdae Shopping Street (홍대걷고싶은거리)](https://naver.me/IgTDYfAC)
@@ -199,11 +227,15 @@ p + ul {
 **3:30 PM** - Depart to Seoul World Cup Stadium (서울월드컵경기장)
 * ETA: 15 minutes
 
+{% include figure.liquid path="/assets/img/resources/korea2024/worldcupstadium.jpg" caption="Seoul World Cup Stadium" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
+
 **3:45 PM** - [Seoul World Cup Stadium (서울월드컵경기장)](https://naver.me/5Rcp9GD0)
 * FC Seoul Shop (FC 서울샵)
 
 **4:45 PM** - Depart to Dongdaemun Design Plaza (동대문디자인플라자)
 * ETA: 30 minutes
+
+{% include figure.liquid path="/assets/img/resources/korea2024/ddp.jpg" caption="Dongdaemun Design Plaza" class="img-fluid" style="width: 75%; height: auto;" zoomable=true %}
 
 **5:15 PM** - [Dongdaemun Design Plaza (동대문디자인플라자)](https://naver.me/FeOCTmVS)
 
@@ -267,14 +299,14 @@ p + ul {
 
 ## Departure Flight
 
-**(KUL  →  ICN)**
+**(KUL  →  ICN)**  
 **Number:** D7 504 (AirAsia)  
 **Departure:** 29 October 2024 - 10:50 PM (GMT+8)  
 **Arrival:** 30 October 2024 - 6:20 AM (GMT+8)  
 
 ## Return Flight
 
-**(ICN  →  KUL)**
+**(ICN  →  KUL)**  
 **Number:** D7 507 (AirAsia)  
 **Departure:** 3 November 2024 - 7:30 PM (GMT+8)  
 **Arrival:** 3 November 2024 - 11:40 PM (GMT+8)  
